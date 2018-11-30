@@ -2,6 +2,11 @@ A Spring Boot application which can be used as a backend of Student Angular appl
 
 It was developed as a tutorial of Spring Boot and Angular for workshop puproses on Devs Kariera 2018 day in Athens, Greece (2018-12-01).
 
+## Branches
+
+* `master`: contains the exercise as it is taught inside the workshop with TODO items/goals to be missing.
+* `complete`: contains the complete solution
+
 ## Database
 
 In order to run this application you have to create a new MySQL database and ```student``` table using the following DDL commands:
